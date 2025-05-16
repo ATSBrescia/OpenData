@@ -23,7 +23,7 @@
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
   <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-24</dct:issued>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://www.ats-brescia.it/opendata/direzioni-di-ats-brescia"/>
   <dcat:dataset rdf:resource="https://www.ats-brescia.it/opendata/organismi-di-ats-brescia"/>
@@ -74,7 +74,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -119,7 +119,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -164,7 +164,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -209,7 +209,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -254,7 +254,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -299,7 +299,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -344,7 +344,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -389,7 +389,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -434,7 +434,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -479,7 +479,7 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-22</dct:issued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
