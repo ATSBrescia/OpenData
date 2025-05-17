@@ -16,14 +16,14 @@
   </dct:publisher>
   <dct:description>Dati strutture organizzative di ATS di Brescia in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) vigente.</dct:description>
   <dct:language>it</dct:language>
-  <foaf:homepage rdf:resource="https://www.ats-brescia.it/opendata#"/>
+  <foaf:homepage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati"/>
   <dcat:themeTaxonomy>
     <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-20</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://www.ats-brescia.it/opendata/direzioni-di-ats-brescia"/>
   <dcat:dataset rdf:resource="https://www.ats-brescia.it/opendata/organismi-di-ats-brescia"/>
@@ -45,7 +45,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Direzioni di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco, in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) Vigente: Direzioni di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:direzioni-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -73,8 +73,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -90,7 +90,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Organismi di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco, in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) Vigente: Organismi  di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:organismi-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -118,8 +118,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -135,7 +135,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Sedi Operative di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco Sedi Operative di ATS Brescia</dct:description>
     <dct:identifier>atsbs:sedi-operative-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -163,8 +163,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -180,7 +180,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Dipartimenti di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco, in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) Vigente: Dipartimenti  di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:dipartimenti-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
@@ -208,8 +208,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -225,7 +225,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Strutture Complesse di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco, in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) Vigente: Strutture Complesse  di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:strutture-complesse-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
@@ -253,8 +253,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -270,7 +270,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Strutture Semplici e Semplici Dipartimentali di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco, in base ad Ultimo POAS (Piano di Organizzazione Aziendale Strategico) Vigente: Strutture Semplici/Semplici Dipartimentali  di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:strutture-semplici-e-semplici-dipartimentali-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
@@ -298,8 +298,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -315,7 +315,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Elenco Comuni di competenza di ATS Brescia</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco Comuni di competenza  di ATS di Brescia</dct:description>
     <dct:identifier>atsbs:elenco-comuni-di-competenza-di-ats-brescia</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -343,8 +343,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -360,7 +360,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Elenco Distretti Socio Sanitari con comuni di competenza</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco Distretti Socio Sanitari con comuni di competenza</dct:description>
     <dct:identifier>atsbs:elenco-distretti-socio-sanitari-con-comuni-di-competenza</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -388,8 +388,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -405,7 +405,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Elenco Ambiti Socio Sanitari con comuni di competenza</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco Ambiti Socio Sanitari con comuni di competenza</dct:description>
     <dct:identifier>atsbs:elenco-ambiti-socio-sanitari-con-comuni-di-competenza</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -433,8 +433,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
@@ -450,7 +450,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
     <dct:license/>
     <dct:title>Elenco Distretti Veterinari con comuni di competenza</dct:title>
-    <dcat:landingPage rdf:resource="https://www.ats-brescia.it/opendata/"/>
+    <dcat:landingPage rdf:resource="https://ats-brescia.it/amministrazione-trasparente/catalogo-dati-metadati-e-banche-dati/"/>
     <dct:description>Elenco Distretti Veterinari con comuni di competenza</dct:description>
     <dct:identifier>atsbs:elenco-distretti-veterinari-con-comuni-di-competenza</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
@@ -478,8 +478,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-31</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-16</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-24</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.ats-brescia.it"/>
     <dcat:keyword>Sanità</dcat:keyword>
     <dcat:keyword>Regione Lombardia</dcat:keyword>
